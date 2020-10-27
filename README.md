@@ -1,6 +1,7 @@
 # wordpairgenerator
 
 A new Flutter application.
+This is my first flutter project
 
 ## Getting Started
 
