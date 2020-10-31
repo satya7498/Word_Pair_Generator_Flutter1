@@ -27,7 +27,7 @@ class _RandomWordsState extends State<RandomWords> {
   final _biggerFont = TextStyle(fontSize: 18.0);
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(backgroundColor:Colors.red,
+      appBar: AppBar(backgroundColor:Colors.green,
         title: Text('WordPair suggestor'),
 
 
