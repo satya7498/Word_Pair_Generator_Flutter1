@@ -2,6 +2,7 @@
 
 A new Flutter application.
 This is my first flutter project
+This App creates and displays random words infinitely
 
 ## Getting Started
 
